@@ -1,0 +1,11 @@
+
+[
+  {
+    "productUrl": "http://example.com/product1",
+    "targetPrice": 90.99
+  },
+  {
+    "productUrl": "http://example.com/product2",
+    "targetPrice": 89.99
+  }
+]
